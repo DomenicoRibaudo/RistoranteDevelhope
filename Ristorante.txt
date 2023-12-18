@@ -3,7 +3,11 @@
                Menù a base di carne, comprensivo di primi piatti, secondo e dolce
 
               Primi piatti:
-
+                -Pappardelle al ragù di cinghiale
+                -Risotto alla milanese con ossobuco
+                -Gnocchi di patate con sugo di salsiccia e funghi porcini
+                -Lasagne alla bolognese
+                -Ravioli ripieni di carne con burro e salvia
 
 
 

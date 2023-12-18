@@ -35,9 +35,29 @@
 
 
              Lista bevande per prezzo:
-                -Acqua minerale
-                -Acqua frizzante
-                -Coca cola
-                -Sprite
 
+                Cocktail:
+
+                Negroni
+                Aperol Spritz
+
+                Vini:
+
+                Pinot Grigio
+                Chianti
+
+                Birre:
+
+                Peroni
+                IPA
+
+                Analcoliche:
+
+                Acqua tonica
+                Limonata fresca
+
+                Caffè e Tè:
+
+                Espresso
+                Tè verde
 
